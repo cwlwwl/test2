@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+   <button bindtap="callcloud">云调用</button>
+   <button bindtap="calljian">云jian</button>
+</view>
+<view style="border:1px solid red">
+   <button bindtap="insertAnimal">本地函数增加</button>
+   <button bindtap="insertAnimalByCloud">云函数增加</button>
+   <button bindtap="getById">根据id查询</button>
+   <button bindtap="getAll">查询所有</button>
+   <button bindtap="getByWhere">条件查询</button>
+   <button bindtap="delByWhere">删除where</button>
+   <button bindtap="updateMul">修改多条记录</button>
+   <view>
+      <view wx:for="{{list}}" wx:key="_id">
+         {{item.name}},{{item.age}}
+      </view>
+   </view>
+</view>
