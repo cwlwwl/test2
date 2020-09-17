@@ -1,0 +1,57 @@
+/**App.css**/
+.box {
+	width: 400px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+.box>.top {
+	width: 100%;
+	height: 50px;
+	border: 1px solid pink;
+}
+.box>.bottom {
+	height: 300px;
+	border: 1px solid yellow;
+	display: flex;
+}
+.box>.bottom>.left {
+	border-right: 1px solid black;
+	flex-grow: 1;
+}
+.box>.bottom>.right {
+	flex-grow: 9;
+}
+.head {
+	background: pink;
+	cursor: pointer;
+}
+.content1 {
+	height: 0;
+	overflow: hidden;
+	transition: height 0.4s;
+}
+.content2 {
+	height: 220px;
+	overflow: hidden;
+	transition: height 0.4s;
+}
+.content>div {
+   padding-left: 15px;
+   cursor: pointer;
+}
+.box>.bottom>.right>.one,
+.box>.bottom>.right>.two,
+.box>.bottom>.right>.three{
+   display: none;
+   transition: display;
+   height: 300px;
+}
+.box>.bottom>.right>.one {
+	background: #ff00aa
+}
+.box>.bottom>.right>.two {
+	background: #ff00ff
+}
+.box>.bottom>.right>.three {
+	background: #ffff00
+}
