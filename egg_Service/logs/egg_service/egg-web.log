@@ -1,0 +1,56 @@
+2020-09-14 09:24:37,538 INFO 1088 [egg:logger] init all loggers with options: {"dir":"E:\\year2020\\1H5\\1备课\\6react\\h200502班_代码\\r10_http\\egg_Service\\logs\\egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-14 09:24:37,620 INFO 1088 [egg-multipart] file mode enable
+2020-09-14 09:24:37,620 INFO 1088 [egg-multipart] will save temporary files to "C:\\Users\\Administrator\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg_service", cleanup job cron: "0 30 4 * * *"
+2020-09-14 09:24:38,216 INFO 1088 [egg-static] starting static serve /public/ -> E:\year2020\1H5\1备课\6react\h200502班_代码\r10_http\egg_Service\app\public
+2020-09-14 09:24:38,221 INFO 1088 [egg-security] use methodnoallow middleware
+2020-09-14 09:24:38,222 INFO 1088 [egg-security] use noopen middleware
+2020-09-14 09:24:38,226 INFO 1088 [egg-security] use nosniff middleware
+2020-09-14 09:24:38,227 INFO 1088 [egg-security] use xssProtection middleware
+2020-09-14 09:24:38,228 INFO 1088 [egg-security] use xframe middleware
+2020-09-14 09:24:38,229 INFO 1088 [egg-security] use dta middleware
+2020-09-14 09:24:38,229 INFO 1088 [egg-security] compose 6 middlewares into one security middleware
+2020-09-14 09:24:38,250 INFO 1088 [egg:core] dump config after load, 9ms
+2020-09-14 09:24:38,278 INFO 1088 [egg-watcher:application] watcher start success
+2020-09-14 09:24:38,290 INFO 1088 [egg:core] dump config after ready, 7ms
+2020-09-14 10:06:45,068 INFO 7776 [egg:logger] init all loggers with options: {"dir":"E:\\year2020\\1H5\\1备课\\6react\\h200502班_代码\\r10_http\\egg_Service\\logs\\egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-14 10:06:45,112 INFO 7776 [egg-multipart] file mode enable
+2020-09-14 10:06:45,112 INFO 7776 [egg-multipart] will save temporary files to "C:\\Users\\Administrator\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg_service", cleanup job cron: "0 30 4 * * *"
+2020-09-14 10:06:45,296 INFO 7776 [egg-static] starting static serve /public/ -> E:\year2020\1H5\1备课\6react\h200502班_代码\r10_http\egg_Service\app\public
+2020-09-14 10:06:45,306 INFO 7776 [egg-security] use methodnoallow middleware
+2020-09-14 10:06:45,307 INFO 7776 [egg-security] use noopen middleware
+2020-09-14 10:06:45,308 INFO 7776 [egg-security] use nosniff middleware
+2020-09-14 10:06:45,308 INFO 7776 [egg-security] use xssProtection middleware
+2020-09-14 10:06:45,309 INFO 7776 [egg-security] use xframe middleware
+2020-09-14 10:06:45,309 INFO 7776 [egg-security] use dta middleware
+2020-09-14 10:06:45,309 INFO 7776 [egg-security] compose 6 middlewares into one security middleware
+2020-09-14 10:06:45,321 INFO 7776 [egg:core] dump config after load, 7ms
+2020-09-14 10:06:45,338 INFO 7776 [egg-watcher:application] watcher start success
+2020-09-14 10:06:45,368 INFO 7776 [egg:core] dump config after ready, 28ms
+2020-09-14 10:06:51,917 INFO 7600 [egg:logger] init all loggers with options: {"dir":"E:\\year2020\\1H5\\1备课\\6react\\h200502班_代码\\r10_http\\egg_Service\\logs\\egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-14 10:06:51,973 INFO 7600 [egg-multipart] file mode enable
+2020-09-14 10:06:51,973 INFO 7600 [egg-multipart] will save temporary files to "C:\\Users\\Administrator\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg_service", cleanup job cron: "0 30 4 * * *"
+2020-09-14 10:06:52,127 INFO 7600 [egg-static] starting static serve /public/ -> E:\year2020\1H5\1备课\6react\h200502班_代码\r10_http\egg_Service\app\public
+2020-09-14 10:06:52,130 INFO 7600 [egg-security] use methodnoallow middleware
+2020-09-14 10:06:52,131 INFO 7600 [egg-security] use noopen middleware
+2020-09-14 10:06:52,132 INFO 7600 [egg-security] use nosniff middleware
+2020-09-14 10:06:52,133 INFO 7600 [egg-security] use xssProtection middleware
+2020-09-14 10:06:52,133 INFO 7600 [egg-security] use xframe middleware
+2020-09-14 10:06:52,134 INFO 7600 [egg-security] use dta middleware
+2020-09-14 10:06:52,134 INFO 7600 [egg-security] compose 6 middlewares into one security middleware
+2020-09-14 10:06:52,154 INFO 7600 [egg:core] dump config after load, 13ms
+2020-09-14 10:06:52,165 INFO 7600 [egg-watcher:application] watcher start success
+2020-09-14 10:06:52,176 INFO 7600 [egg:core] dump config after ready, 8ms
+2020-09-14 10:07:06,815 INFO 5424 [egg:logger] init all loggers with options: {"dir":"E:\\year2020\\1H5\\1备课\\6react\\h200502班_代码\\r10_http\\egg_Service\\logs\\egg_service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg_service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-14 10:07:06,902 INFO 5424 [egg-multipart] file mode enable
+2020-09-14 10:07:06,902 INFO 5424 [egg-multipart] will save temporary files to "C:\\Users\\Administrator\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg_service", cleanup job cron: "0 30 4 * * *"
+2020-09-14 10:07:07,138 INFO 5424 [egg-static] starting static serve /public/ -> E:\year2020\1H5\1备课\6react\h200502班_代码\r10_http\egg_Service\app\public
+2020-09-14 10:07:07,144 INFO 5424 [egg-security] use methodnoallow middleware
+2020-09-14 10:07:07,144 INFO 5424 [egg-security] use noopen middleware
+2020-09-14 10:07:07,146 INFO 5424 [egg-security] use nosniff middleware
+2020-09-14 10:07:07,147 INFO 5424 [egg-security] use xssProtection middleware
+2020-09-14 10:07:07,147 INFO 5424 [egg-security] use xframe middleware
+2020-09-14 10:07:07,148 INFO 5424 [egg-security] use dta middleware
+2020-09-14 10:07:07,148 INFO 5424 [egg-security] compose 6 middlewares into one security middleware
+2020-09-14 10:07:07,172 INFO 5424 [egg:core] dump config after load, 10ms
+2020-09-14 10:07:07,188 INFO 5424 [egg-watcher:application] watcher start success
+2020-09-14 10:07:07,204 INFO 5424 [egg:core] dump config after ready, 14ms
