@@ -1,0 +1,265 @@
+{
+  "keys": "E:\\year2020\\wx0502\\eggUpload\\config\\config.default.js",
+  "multipart": {
+    "mode": "E:\\year2020\\wx0502\\eggUpload\\config\\config.default.js",
+    "autoFields": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\config\\config.default.js",
+      "ignoreJSON": "E:\\year2020\\wx0502\\eggUpload\\config\\config.default.js",
+      "type": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "name": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cookies": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "proxy": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "version": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "description": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "main": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "dev": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "author": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "license": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "HOME": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "rundir": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "notFound": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "textLimit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "strict": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "depth": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "env": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "level": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "buffer": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "logging": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "serverTimeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "port": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "hostname": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "responseTimeout": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\year2020\\wx0502\\eggUpload\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+}

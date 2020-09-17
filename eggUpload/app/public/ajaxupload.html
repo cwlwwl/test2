@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Title</title>
+		<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js">
+		</script>
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script type="text/javascript">
+			//jquery的ajax文件上传
+			function jqueryupload() {
+				let file = document.getElementById("choose").files[0];
+				// 验证文件后缀名是否为图片,否则是可以上传任何文件
+				// let finename = file["name"];
+				// console.log(finename);
+				// let patt=/.+(.JPEG|.jpeg|.JPG|.jpg|.PNG|.png)$/;
+				// let result=patt.test(finename);
+				// if(!result) {
+				// 	alert("图片格式不对");
+				// 	return;
+				// }
+				let formData = new FormData();
+				formData.append("fileData", file);
+				$.ajax({
+					type: 'POST',
+					url: '/upload',
+					data: formData,
+					async: false,
+					cache: false,
+					contentType: false,
+					processData: false,
+					success: function(data) {
+						$(".newImg").attr("src", data);
+					},
+					error: function(err) {
+						console.log(err.message);
+					}
+				})
+			}
+		</script>
+		<script type="text/javascript">
+			//axios的ajax上传
+			function axiosupload() {
+				let file = document.getElementById("choose").files[0];
+				// 验证文件后缀名是否为图片,否则是可以上传任何文件
+				// let finename = file["name"];
+				// console.log(finename);
+				// let patt=/.+(.JPEG|.jpeg|.JPG|.jpg|.PNG|.png)$/;
+				// let result=patt.test(finename);
+				// if(!result) {
+				// 	alert("图片格式不对");
+				// 	return;
+				// }
+				let formData = new FormData();
+				formData.append("uploadFile", file, file.name);
+				const config = {
+					headers: {
+						"Content-Type": "multipart/form-data;boundary=" + new Date().getTime()
+					}
+				};
+				axios
+					.post("/upload", formData, config)
+					.then(function(response) {
+						document.getElementsByClassName("newImg")[0].src=response.data;
+						console.log(response);
+					})
+					.catch(function(error) {
+						console.log(error);
+					});
+			}
+		</script>
+	</head>
+	<body>
+		<input type="file" id="choose" />
+		<br />
+		<button onclick="jqueryupload()">jquery上传</button>
+		<br />
+		<button onclick="axiosupload()">axios上传</button>
+		<br />
+		<img class="newImg" />
+	</body>
+</html>
