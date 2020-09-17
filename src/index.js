@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker.js';
 
@@ -6,7 +6,7 @@ function GetUl() {
   return(
 	<>
 		<ul>
-			<li>苏格拉底</li>
+			<li>dfdsfds苏格拉底</li>
 			<li>老子</li>
 			<li>修莫</li>
 			<li>亚里士多德</li>
